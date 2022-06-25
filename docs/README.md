@@ -2,23 +2,23 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Hao Yin
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/Mauriyin
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://www.linkedin.com/in/hao-yin-2367b0173/
+  - title: Google Scholar
+    icon: "/icons/scholar.svg"
+    link: https://scholar.google.com/citations?user=KnEC9NAAAAAJ&hl=en
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: Phd Candidate at University of Washington
+email: haoyin (at) uw (dot) edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
