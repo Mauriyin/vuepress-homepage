@@ -18,30 +18,46 @@ socials:
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: Phd Candidate at University of Washington
-email: haoyin (at) uw (dot) edu
+email: haoyin (at) hogwarts (dot) edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
-
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
-
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
-
+I am a research assistant and Ph.D. candidate in the [department of electrical & computer engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/), under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/) since 2019. Before this, I received my Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
+              
+My research mainly focuses on the scheduling and resource allocation algorithms in wireless communication, especially for the next generation 5G and Wi-Fi systems. I am also working on applying machine learning algorithms to complex wireless systems to build more intellegent wireless system in the future.
 
 ## News
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- [Jun 2022] Present our work on 6 GHz Wi-Fi in [WNS3 2022](https://www.nsnam.org/research/wns3/wns3-2022/program/)
+- [Apr 2022] We offered the tutorial for the ns-3 Wi-Fi simulation at [ACMSE](https://acmse.net/2022/tutorials-offered/#tut-work04)
+- [Jun 2021] We offered the tutorial for the ns3-ai model at [WNS3 2021](https://www.nsnam.org/research/wns3/wns3-2021/tutorials/)
 
 
-## Education & Experiences
+## Education
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- **University of Washington, Seattle, USA** <br/>
+PhD, ECE, Sept 2019 - Present
+- **University of Washington, Seattle, USA** <br/>
+MS, AMATH, March 2021 - Present
+- **Huazhong University of Science and Technology, Wuhan, China** <br/>
+BS, Sept 2015 - Jun 2019
 
+## Experience
 
+- **Meta, TED wireless Team**, Jun 2022 - Sept, 2022, Sunnyvale, CA
+  - HW Product Engineer Intern
+  - Working on the optimization of Wi-Fi network for XR scenarios.
+
+- **Microsoft Research**, Apr 2021 - Jun, 2022, Redmond, WA
+  - Research Intern
+  - Working on the optimization of Wi-Fi network for gaming scenarios.
+
+- **Intel**, Apr 2018 - Jun, 2019, Beijing, China
+  - Research Intern
+  - Implemented 5G NR and LTE layer 2 (mainly MAC, RLC, PDCP layer) stacks on Intel Architecture with Linux and C/C++ for the benchmarking of LTE/NR prototypes.
+  
 ## Projects
 
 
