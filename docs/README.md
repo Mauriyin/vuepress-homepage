@@ -18,7 +18,7 @@ socials:
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: Phd Candidate at University of Washington
-email: haoyin (at) hogwarts (dot) edu
+email: haoyin (at) uw (dot) edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
@@ -26,7 +26,7 @@ email: haoyin (at) hogwarts (dot) edu
 ## About Me
 I am a research assistant and Ph.D. candidate in the [department of electrical & computer engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/), under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/) since 2019. Before this, I received my Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
               
-My research mainly focuses on the scheduling and resource allocation algorithms in wireless communication, especially for the next generation 5G and Wi-Fi systems. I am also working on applying machine learning algorithms to complex wireless systems to build more intellegent wireless system in the future.
+My research focuses on the scheduling and resource allocation algorithms in wireless communication, especially for the next generation 5G and Wi-Fi systems. I am also working on applying machine learning algorithms to complex wireless systems to build more intellegent wireless system in the future.
 
 ## News
 
@@ -63,34 +63,47 @@ BS, Sept 2015 - Jun 2019
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/wifi.png" hideBorder=true>
 
-  **The Making of Harry Potter's Wand**
+  **Next-Generation Wi-Fi Networks**
+With the imminent IEEE 802.11be (Wi-Fi 7) amendment, future Wi-Fi 7 aims to offer low latency and ultra-reliability in license-exempt spectrum bands. The new physical (PHY) and medium access control (MAC) layer enhancements, such as multi-link operation (MLO) and multi-AP cooperation, provide more opportunities for Wi-Fi networks to meet often conflicting QoE metrics. Our projects focus on the smart scheduling and optimization for the next generation Wi-Fi networks.
 
-  Harry P., Hermione G., *et al*
+</ProjectCard>
+
+<ProjectCard image="/projects/5g.png" hideBorder=true>
+
+  **Resource Allocation and Scheduling for 5G Networks**
+  Diverse mission-critical applications require Ultra-Reliable and Low-Latency Communications (URLLC) services, such as industrial automation, intelligent transportation, gaming, and Virtual/Augmented Reality (VR/AR). Different types of wireless technology have coexisted and provided URLLC services under various scenarios. Our projects study the requirements of the URLLC traffic in 5G networks and propose the optimiaztion algorithms for the scheduling and resource allocation problem.
+
+</ProjectCard>
+
+<!-- <ProjectCard hideBorder=true>
+
+  **The ns-3 simulation tools**
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  [[Link](https://www.google.com)]
 
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
 
-  **Harry Potter and the Deathly Hallows**
+  **Vehicle to Everything (V2X) Communication**
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
-
   [[Link](https://www.google.com)]
 
-</ProjectCard>
+</ProjectCard> -->
 
 
 ## Awards & Honors
+- Qualcomm Innovation Fellowship Finnalist, 2022 
+- National Scholarship in China, 2018
+- Merit Student of Huazhong University of Science and Technology, 2017 & 2018
+- Huazhong University of Science and Technology undergraduate excellent student, 2017
+- Team Winner, College Students' Innovation and Entrepreneurship Campus, 2017
 
-### Contests
+<!-- ### Contests
 
-- First place in **The Hogwarts House Cup**
+- First place in **The Hogwarts House Cup** -->
 
 
 <!-- Custom style for this page -->
