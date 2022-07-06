@@ -28,7 +28,7 @@ I am a research assistant and Ph.D. candidate in the [department of electrical &
               
 My research focuses on the scheduling and resource allocation algorithms in wireless communication, especially for the next generation 5G and Wi-Fi systems. I am also working on applying machine learning algorithms to complex wireless systems to build more intellegent wireless system in the future.
 
-<font color='red'> I am actively looking for full time position starts from Summar 2023. </font>
+<font color='red'> I am actively looking for full time position starts from Summer 2023. </font>
 ## News
 
 - [Jun 2022] Present our work on 6 GHz Wi-Fi in [WNS3 2022](https://www.nsnam.org/research/wns3/wns3-2022/program/)
@@ -100,6 +100,7 @@ Vehicle-to-everything, or V2X, is an all-encompassing term for a vehicle’s con
 
 ## Awards & Honors
 - Qualcomm Innovation Fellowship Finnalist, 2022 
+- Huazhong University of Science and Technology Outstanding undergraduate graduation thesis, 2019
 - National Scholarship in China, 2018
 - Merit Student of Huazhong University of Science and Technology, 2017 & 2018
 - Huazhong University of Science and Technology undergraduate excellent student, 2017
