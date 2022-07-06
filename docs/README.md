@@ -28,6 +28,7 @@ I am a research assistant and Ph.D. candidate in the [department of electrical &
               
 My research focuses on the scheduling and resource allocation algorithms in wireless communication, especially for the next generation 5G and Wi-Fi systems. I am also working on applying machine learning algorithms to complex wireless systems to build more intellegent wireless system in the future.
 
+<font color='red'> I am actively looking for full time position starts from Summar 2023. </font>
 ## News
 
 - [Jun 2022] Present our work on 6 GHz Wi-Fi in [WNS3 2022](https://www.nsnam.org/research/wns3/wns3-2022/program/)
@@ -66,8 +67,9 @@ BS, Sept 2015 - Jun 2019
 <ProjectCard image="/projects/wifi.png" hideBorder=true>
 
   **Next-Generation Wi-Fi Networks**
-With the imminent IEEE 802.11be (Wi-Fi 7) amendment, future Wi-Fi 7 aims to offer low latency and ultra-reliability in license-exempt spectrum bands. The new physical (PHY) and medium access control (MAC) layer enhancements, such as multi-link operation (MLO) and multi-AP cooperation, provide more opportunities for Wi-Fi networks to meet often conflicting QoE metrics. Our projects focus on smart scheduling and optimization for the next-generation Wi-Fi networks.
-Papers: [6 GHz](https://dl.acm.org/doi/abs/10.1145/3532577.3532580), [Channel Access](https://ieeexplore.ieee.org/abstract/document/9348485), [Wi-Fi 7 Scheduling](https://ieeexplore.ieee.org/abstract/document/9810021)
+With the imminent IEEE 802.11be (Wi-Fi 7) amendment, future Wi-Fi 7 aims to offer low latency and ultra-reliability in license-exempt spectrum bands. The new physical (PHY) and medium access control (MAC) layer enhancements, such as multi-link operation (MLO) and multi-AP cooperation, provide more opportunities for Wi-Fi networks to meet often conflicting QoE metrics. Our projects focus on smart scheduling and optimization for the next-generation Wi-Fi networks.    
+
+**Papers**: [6 GHz](https://dl.acm.org/doi/abs/10.1145/3532577.3532580), [Channel Access](https://ieeexplore.ieee.org/abstract/document/9348485), [Wi-Fi 7 Scheduling](https://ieeexplore.ieee.org/abstract/document/9810021)
 
 </ProjectCard>
 
@@ -76,7 +78,7 @@ Papers: [6 GHz](https://dl.acm.org/doi/abs/10.1145/3532577.3532580), [Channel Ac
   **Resource Allocation and Scheduling for 5G Networks**
   Diverse mission-critical applications require Ultra-Reliable and Low-Latency Communications (URLLC) services, such as industrial automation, intelligent transportation, gaming, and Virtual/Augmented Reality (VR/AR). Different types of wireless technology have coexisted and provided URLLC services under various scenarios. Our projects study the requirements of the URLLC traffic in 5G networks and propose the optimization algorithms for the scheduling and resource allocation problem.
 
-Papers: [Joint Scheduling](https://ieeexplore.ieee.org/abstract/document/9247169), [Multi-hop](https://ieeexplore.ieee.org/abstract/document/9625389), [Channel Prediction](https://ieeexplore.ieee.org/abstract/document/9625323)
+**Papers**: [Joint Scheduling](https://ieeexplore.ieee.org/abstract/document/9247169), [Multi-hop](https://ieeexplore.ieee.org/abstract/document/9625389), [Channel Prediction](https://ieeexplore.ieee.org/abstract/document/9625323)
 </ProjectCard>
 
 <!-- <ProjectCard hideBorder=true>
@@ -92,7 +94,7 @@ Papers: [Joint Scheduling](https://ieeexplore.ieee.org/abstract/document/9247169
   **Vehicle to Everything (V2X) Communication**
 Vehicle-to-everything, or V2X, is an all-encompassing term for a vehicle’s connected communications. The overall idea is that a vehicle is able, or will be able to, use its on-board communication tools to deliver real-time traffic information, preemptively react to changing road conditions, recognize road signs and warnings, and more. In these projects, we mainly focus on the scheduling and resource allocation in V2X communication based on the latest standards.  
 
-Papers:[Vehicle Platooning](https://ieeexplore.ieee.org/abstract/document/9527765), [Blockchain for Vehicular Safety](https://ieeexplore.ieee.org/abstract/document/9625342)
+**Papers**:[Vehicle Platooning](https://ieeexplore.ieee.org/abstract/document/9527765), [Blockchain for Vehicular Safety](https://ieeexplore.ieee.org/abstract/document/9625342)
 </ProjectCard>
 
 
