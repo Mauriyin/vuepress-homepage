@@ -12,7 +12,7 @@ socials:
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/hao-yin-2367b0173/
   - title: Google Scholar
-    icon: "/icons/google.png"
+    icon: "/icons/Google_Scholar_logo.svg"
     link: https://scholar.google.com/citations?user=KnEC9NAAAAAJ&hl=en
 # actions:
 # - text: Projects
