@@ -13,7 +13,7 @@ socials:
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/hao-yin-2367b0173/
   - title: Google Scholar
-    icon: "/icons/scholar.svg"
+    icon: "/icons/google.png"
     link: https://scholar.google.com/citations?user=KnEC9NAAAAAJ&hl=en
 
 #cv: https://en.wikipedia.org/wiki/Harry_Potter
@@ -67,7 +67,7 @@ BS, Sept 2015 - Jun 2019
 
   **Next-Generation Wi-Fi Networks**
 With the imminent IEEE 802.11be (Wi-Fi 7) amendment, future Wi-Fi 7 aims to offer low latency and ultra-reliability in license-exempt spectrum bands. The new physical (PHY) and medium access control (MAC) layer enhancements, such as multi-link operation (MLO) and multi-AP cooperation, provide more opportunities for Wi-Fi networks to meet often conflicting QoE metrics. Our projects focus on smart scheduling and optimization for the next-generation Wi-Fi networks.
-[6 GHz](https://dl.acm.org/doi/abs/10.1145/3532577.3532580) [Channel Access](https://ieeexplore.ieee.org/abstract/document/9348485) [Wi-Fi 7 Scheduling](https://ieeexplore.ieee.org/abstract/document/9810021)
+Papers: [6 GHz](https://dl.acm.org/doi/abs/10.1145/3532577.3532580), [Channel Access](https://ieeexplore.ieee.org/abstract/document/9348485), [Wi-Fi 7 Scheduling](https://ieeexplore.ieee.org/abstract/document/9810021)
 
 </ProjectCard>
 
@@ -75,7 +75,8 @@ With the imminent IEEE 802.11be (Wi-Fi 7) amendment, future Wi-Fi 7 aims to offe
 
   **Resource Allocation and Scheduling for 5G Networks**
   Diverse mission-critical applications require Ultra-Reliable and Low-Latency Communications (URLLC) services, such as industrial automation, intelligent transportation, gaming, and Virtual/Augmented Reality (VR/AR). Different types of wireless technology have coexisted and provided URLLC services under various scenarios. Our projects study the requirements of the URLLC traffic in 5G networks and propose the optimization algorithms for the scheduling and resource allocation problem.
-[Joint Scheduling](https://ieeexplore.ieee.org/abstract/document/9247169) [Multi-hop](https://ieeexplore.ieee.org/abstract/document/9625389) [Channel Prediction](https://ieeexplore.ieee.org/abstract/document/9625323)
+
+Papers: [Joint Scheduling](https://ieeexplore.ieee.org/abstract/document/9247169), [Multi-hop](https://ieeexplore.ieee.org/abstract/document/9625389), [Channel Prediction](https://ieeexplore.ieee.org/abstract/document/9625323)
 </ProjectCard>
 
 <!-- <ProjectCard hideBorder=true>
@@ -89,8 +90,9 @@ With the imminent IEEE 802.11be (Wi-Fi 7) amendment, future Wi-Fi 7 aims to offe
 <ProjectCard hideBorder=true>
 
   **Vehicle to Everything (V2X) Communication**
-Vehicle-to-everything, or V2X, is an all-encompassing term for a vehicle’s connected communications. The overall idea is that a vehicle is able, or will be able to, use its on-board communication tools to deliver real-time traffic information, preemptively react to changing road conditions, recognize road signs and warnings, and more. In these projects, we mainly focus on the scheduling and resource allocation in V2X communication based on the latest standards.
-[Vehicle Platooning](https://ieeexplore.ieee.org/abstract/document/9527765) [Blockchain for Vehicular Safety](https://ieeexplore.ieee.org/abstract/document/9625342)
+Vehicle-to-everything, or V2X, is an all-encompassing term for a vehicle’s connected communications. The overall idea is that a vehicle is able, or will be able to, use its on-board communication tools to deliver real-time traffic information, preemptively react to changing road conditions, recognize road signs and warnings, and more. In these projects, we mainly focus on the scheduling and resource allocation in V2X communication based on the latest standards.  
+
+Papers:[Vehicle Platooning](https://ieeexplore.ieee.org/abstract/document/9527765), [Blockchain for Vehicular Safety](https://ieeexplore.ieee.org/abstract/document/9625342)
 </ProjectCard>
 
 
