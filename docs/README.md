@@ -13,7 +13,7 @@ socials:
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/hao-yin-2367b0173/
   - title: Google Scholar
-    icon: "/icons/google.png"
+    icon: "/icons/scholar.svg"
     link: https://scholar.google.com/citations?user=KnEC9NAAAAAJ&hl=en
 
 #cv: https://en.wikipedia.org/wiki/Harry_Potter
@@ -87,7 +87,7 @@ Papers: [Joint Scheduling](https://ieeexplore.ieee.org/abstract/document/9247169
 
 </ProjectCard> -->
 
-<ProjectCard hideBorder=true>
+<ProjectCard image="/projects/v2x.png" hideBorder=true>
 
   **Vehicle to Everything (V2X) Communication**
 Vehicle-to-everything, or V2X, is an all-encompassing term for a vehicle’s connected communications. The overall idea is that a vehicle is able, or will be able to, use its on-board communication tools to deliver real-time traffic information, preemptively react to changing road conditions, recognize road signs and warnings, and more. In these projects, we mainly focus on the scheduling and resource allocation in V2X communication based on the latest standards.  
