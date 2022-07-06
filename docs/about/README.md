@@ -14,13 +14,13 @@ socials:
   - title: Google Scholar
     icon: "/icons/scholar.svg"
     link: https://scholar.google.com/citations?user=KnEC9NAAAAAJ&hl=en
-actions:
-- text: Projects
-  link: /projects/
-- text: Blog
-  link: https://github.com/mtobeiyf
-- text: CV
-  link: /article/
+# actions:
+# - text: Projects
+#   link: /projects/
+# - text: Blog
+#   link: https://github.com/mtobeiyf
+# - text: CV
+#   link: /article/
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
