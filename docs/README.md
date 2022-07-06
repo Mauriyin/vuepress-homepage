@@ -17,7 +17,7 @@ socials:
     link: https://scholar.google.com/citations?user=KnEC9NAAAAAJ&hl=en
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Phd Candidate at University of Washington
+bio: Phd. Candidate at University of Washington
 email: haoyin (at) uw (dot) edu
 ---
 
