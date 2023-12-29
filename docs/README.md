@@ -17,41 +17,43 @@ socials:
     link: https://scholar.google.com/citations?user=KnEC9NAAAAAJ&hl=en
 
 #cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Phd. Candidate at University of Washington
+bio: Research Scientist
 email: haoyin (at) uw (dot) edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
-I am a research assistant and Ph.D. candidate in the [department of electrical & computer engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/), under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/) since 2019. Before this, I received my Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
+Dr. Hao Yin is a Research Scientist in Wireless Communication. He received his Ph.D. degree from the [University of Washington](https://www.washington.edu/), under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/) in 2023. Before this, He received his Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
               
-My research focuses on the scheduling and resource allocation algorithms in wireless communication, especially for the next generation 5G and Wi-Fi systems. I am also working on applying machine learning algorithms to complex wireless systems to build more intellegent wireless system in the future.
+His research focuses on the scheduling and resource allocation algorithms in wireless communication, especially for the next generation 5G and Wi-Fi systems. He also works on applying machine learning algorithms to complex wireless systems to build more intellegent wireless system in the future.
 
-<font color='red'> I am actively looking for full time position starts from Summer 2023. </font>
 ## News
-
+- [Dec 2023] Our paper "ANN-Assisted Wireless Link Rate Adaptation for Compute-Constrained Embedded Gaming Devices" accepted to NSDI 2024.
+- [Jul 2023] Updated the latest status of multi-bss Wi-Fi simulations at [Wireless Next Generation (WNG) Standing Committee
+Meeting](https://mentor.ieee.org/802.11/dcn/23/11-23-1257-00-0wng-wng-meeting-minutes-2023-july-berlin-meeting.docx)
+- [Jun 2023] Updated the latest status of multi-bss Wi-Fi simulations at [WNS3 2023](https://www.nsnam.org/research/wns3/wns3-2023/program/)
+- [Oct 2022] We offered the tutorial for the ns-3 Wi-Fi simulation at [LANC 2022](https://lanc.top/2022/tutorials-offered/)
 - [Jun 2022] Present our work on 6 GHz Wi-Fi in [WNS3 2022](https://www.nsnam.org/research/wns3/wns3-2022/program/)
-- [Apr 2022] We offered the tutorial for the ns-3 Wi-Fi simulation at [ACMSE](https://acmse.net/2022/tutorials-offered/#tut-work04)
-- [Jun 2021] We offered the tutorial for the ns3-ai model at [WNS3 2021](https://www.nsnam.org/research/wns3/wns3-2021/tutorials/)
+- [Apr 2022] We offered the tutorial for the ns-3 Wi-Fi simulation at [ACMSE 2022](https://acmse.net/2022/tutorials-offered/#tut-work04)
 
 
 ## Education
 
 - **University of Washington, Seattle, USA** <br/>
-PhD, ECE, Sept 2019 - Present
+PhD, ECE, Sept 2019 - Aug 2023
 - **University of Washington, Seattle, USA** <br/>
-MS, AMATH, March 2021 - Present
+MS, AMATH, March 2021 - Dec 2022
 - **Huazhong University of Science and Technology, Wuhan, China** <br/>
 BS, Sept 2015 - Jun 2019
 
-## Experience
+## Working Experience
 
 - **Meta, TED wireless Team**, Jun 2022 - Sept, 2022, Sunnyvale, CA
   - HW Product Engineer Intern
   - Working on the optimization of Wi-Fi network for XR scenarios.
 
-- **Microsoft Research**, Apr 2021 - Jun, 2022, Redmond, WA
+- **Microsoft Research**, Apr 2021 - Jun, 2022, Oct 2022 - Mar 2023, Redmond, WA
   - Research Intern
   - Working on the optimization of Wi-Fi network for gaming scenarios.
 
