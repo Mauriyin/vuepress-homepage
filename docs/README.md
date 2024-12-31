@@ -24,7 +24,7 @@ email: haoyin (at) meta (dot) com
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
-Dr. Hao Yin is currently a Wireless System Engineer at Meta Reality Lab. He received his Ph.D. degree from the [University of Washington](https://www.washington.edu/) in 2023 under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/). Before this, he received his Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
+Dr. Hao Yin is currently a Wireless System Engineer at Meta Meta Reality Labs. He received his Ph.D. degree from the [University of Washington](https://www.washington.edu/) in 2023 under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/). Before this, he received his Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
               
 Dr. Yin works on system performance analysis and optimization for wearable hardware and MMAI applications. His research focuses on scheduling and resource allocation algorithms in wireless communication, especially for the next generation of 5G and Wi-Fi systems. He also works on applying machine learning algorithms to complex wireless systems to build more intelligent wireless systems in the future.
 
@@ -49,7 +49,7 @@ MS, AMATH, March 2021 - Dec 2022
 BS, Sept 2015 - Jun 2019
 
 ## Working Experience
-- **Meta Reality Lab**, Sept 2023 - Present, Redmond, WA
+- **Meta Reality Labs**, Sept 2023 - Present, Redmond, WA
   - Working on the optimization of the Wi-Fi network for XR products.
   - MMAI use cases performance analysis and optimization for AR/Smart Glasses.
 
@@ -59,7 +59,7 @@ BS, Sept 2015 - Jun 2019
 
 - **Microsoft Research**, Apr 2021 - Jun 2022, Oct 2022 - Mar 2023, Redmond, WA
   - Research Intern
-  - Working on the optimization of Wthe i-Fi network for gaming scenarios.
+  - Working on the optimization of the Wi-Fi network for gaming scenarios.
 
 - **Intel**, Apr 2018 - Jun, 2019, Beijing, China
   - Research Intern
@@ -98,7 +98,7 @@ With the imminent IEEE 802.11be (Wi-Fi 7) amendment, future Wi-Fi 7 aims to offe
 <ProjectCard image="/projects/v2x.png" hideBorder=true>
 
   **Vehicle to Everything (V2X) Communication**
-Vehicle-to-everything, or V2X, is an all-encompassing term for a vehicle’s connected communications. The overall idea is that a vehicle is able, or will be able to, use its on-board communication tools to deliver real-time traffic information, preemptively react to changing road conditions, recognize road signs and warnings, and more. In these projects, we mainly focus on the scheduling and resource allocation in V2X communication based on the latest standards.  
+Vehicle-to-everything, or V2X, is an all-encompassing term for a vehicle’s connected communications. The overall idea is that a vehicle is able, or will be able to, use its onboard communication tools to deliver real-time traffic information, preemptively react to changing road conditions, recognize road signs and warnings, and more. In these projects, we mainly focus on the scheduling and resource allocation in V2X communication based on the latest standards.  
 
 **Papers**:[Vehicle Platooning](https://ieeexplore.ieee.org/abstract/document/9527765), [Blockchain for Vehicular Safety](https://ieeexplore.ieee.org/abstract/document/9625342)
 </ProjectCard>
