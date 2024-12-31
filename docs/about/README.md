@@ -3,7 +3,7 @@ pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
 head: 'Hao Yin'
-info: 'Phd Candidate at University of Washington'
+info: 'Wireless System Engineer at Meta'
 socials:
   - title: github
     icon: "/icons/github.svg"
