@@ -18,18 +18,19 @@ socials:
 
 #cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: Research Scientist
-email: haoyin (at) uw (dot) edu
+email: haoyin (at) meta (dot) com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
-Dr. Hao Yin is a Research Scientist in Wireless Communication. He received his Ph.D. degree from the [University of Washington](https://www.washington.edu/), under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/) in 2023. Before this, He received his Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
+Dr. Hao Yin is currently a Wireless System Engineer at Meta Reality Lab. He received his Ph.D. degree from the [University of Washington](https://www.washington.edu/) in 2023 under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/). Before this, he received his Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
               
-His research focuses on the scheduling and resource allocation algorithms in wireless communication, especially for the next generation 5G and Wi-Fi systems. He also works on applying machine learning algorithms to complex wireless systems to build more intellegent wireless system in the future.
+Dr. Yin works on system performance analysis and optimization for wearable hardware and MMAI applications. His research focuses on scheduling and resource allocation algorithms in wireless communication, especially for the next generation of 5G and Wi-Fi systems. He also works on applying machine learning algorithms to complex wireless systems to build more intelligent wireless systems in the future.
 
 ## News
-- [Dec 2023] Our paper "ANN-Assisted Wireless Link Rate Adaptation for Compute-Constrained Embedded Gaming Devices" accepted to NSDI 2024.
+- [Sept 2024] I started to teach EE 595 / EEP 569 Introduction to WLAN this fall at the University of Washington.
+- [Apr 2024] Our paper "ANN-Assisted Wireless Link Rate Adaptation for Compute-Constrained Embedded Gaming Devices" has been [presented](https://www.usenix.org/conference/nsdi24/presentation/yin) at NSDI 24.
 - [Jul 2023] Updated the latest status of multi-bss Wi-Fi simulations at [Wireless Next Generation (WNG) Standing Committee
 Meeting](https://mentor.ieee.org/802.11/dcn/23/11-23-1257-00-0wng-wng-meeting-minutes-2023-july-berlin-meeting.docx)
 - [Jun 2023] Updated the latest status of multi-bss Wi-Fi simulations at [WNS3 2023](https://www.nsnam.org/research/wns3/wns3-2023/program/)
@@ -48,14 +49,17 @@ MS, AMATH, March 2021 - Dec 2022
 BS, Sept 2015 - Jun 2019
 
 ## Working Experience
+- **Meta Reality Lab**, Sept 2023 - Present, Redmond, WA
+  - Working on the optimization of the Wi-Fi network for XR products.
+  - MMAI use cases performance analysis and optimization for AR/Smart Glasses.
 
-- **Meta, TED wireless Team**, Jun 2022 - Sept, 2022, Sunnyvale, CA
+- **Meta, TED wireless Team**, Jun 2022 - Sept 2022, Sunnyvale, CA
   - HW Product Engineer Intern
-  - Working on the optimization of Wi-Fi network for XR scenarios.
+  - Working on the optimization of the Wi-Fi network for XR scenarios.
 
-- **Microsoft Research**, Apr 2021 - Jun, 2022, Oct 2022 - Mar 2023, Redmond, WA
+- **Microsoft Research**, Apr 2021 - Jun 2022, Oct 2022 - Mar 2023, Redmond, WA
   - Research Intern
-  - Working on the optimization of Wi-Fi network for gaming scenarios.
+  - Working on the optimization of Wthe i-Fi network for gaming scenarios.
 
 - **Intel**, Apr 2018 - Jun, 2019, Beijing, China
   - Research Intern
@@ -78,7 +82,7 @@ With the imminent IEEE 802.11be (Wi-Fi 7) amendment, future Wi-Fi 7 aims to offe
 <ProjectCard image="/projects/5g.png" hideBorder=true>
 
   **Resource Allocation and Scheduling for 5G Networks**
-  Diverse mission-critical applications require Ultra-Reliable and Low-Latency Communications (URLLC) services, such as industrial automation, intelligent transportation, gaming, and Virtual/Augmented Reality (VR/AR). Different types of wireless technology have coexisted and provided URLLC services under various scenarios. Our projects study the requirements of the URLLC traffic in 5G networks and propose the optimization algorithms for the scheduling and resource allocation problem.
+  Diverse mission-critical applications require Ultra-Reliable and Low-Latency Communications (URLLC) services, such as industrial automation, intelligent transportation, gaming, and Virtual/Augmented Reality (VR/AR). Different types of wireless technology have coexisted and provided URLLC services under various scenarios. Our projects study the requirements of the URLLC traffic in 5G networks and propose optimization algorithms for the scheduling and resource allocation problem.
 
 **Papers**: [Joint Scheduling](https://ieeexplore.ieee.org/abstract/document/9247169), [Multi-hop](https://ieeexplore.ieee.org/abstract/document/9625389), [Channel Prediction](https://ieeexplore.ieee.org/abstract/document/9625323)
 </ProjectCard>
@@ -101,7 +105,7 @@ Vehicle-to-everything, or V2X, is an all-encompassing term for a vehicle’s con
 
 
 ## Awards & Honors
-- Qualcomm Innovation Fellowship Finnalist, 2022 
+- Qualcomm Innovation Fellowship Finalist, 2022 
 - Huazhong University of Science and Technology Outstanding undergraduate graduation thesis, 2019
 - National Scholarship in China, 2018
 - Merit Student of Huazhong University of Science and Technology, 2017 & 2018
