@@ -25,9 +25,9 @@ socials:
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I am a research assistant and Ph.D. candidate in the [department of electrical & computer engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/), under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/) since 2019. Before this, I received my Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
-              
-My research focuses on the scheduling and resource allocation algorithms in wireless communication, especially for the next generation 5G and Wi-Fi systems. I am also working on applying machine learning algorithms to complex wireless systems to build more intellegent wireless system in the future.
+I am currently a Wireless System Engineer at Meta Reality Labs. I received my Ph.D. from the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the [University of Washington](https://www.washington.edu/), under the supervision of Prof. [Sumit Roy](https://people.ece.uw.edu/roy/) in 2023. Prior to this, I earned my Bachelor's degree (2015-2019) from Huazhong University of Science and Technology.
+
+My work focuses on system performance analysis and optimization for wearable hardware and mixed-mode AI applications. My research areas include scheduling and resource allocation algorithms in wireless communications, particularly in advancing next-generation 5G and Wi-Fi systems. Additionally, I am engaged in integrating machine learning algorithms into complex wireless networks to develop more sophisticated and intelligent systems for the future.
 
 </AboutCard>
 
